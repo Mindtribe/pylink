@@ -5,6 +5,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+
+## [0.0.9]
+
+### Changed
+
+- @charlesnicholson: fixed non-deterministic crash on Linux when unloading DLL.
+
+## [0.0.8]
+
+### Changed
+
+- @eldonrivers: added support for 'nxp' name for kinetis/freescale chips
+
 ## [0.0.7]
 
 ### Added
